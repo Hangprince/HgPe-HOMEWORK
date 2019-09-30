@@ -1,6 +1,7 @@
 # first-assignment
 由于前几日突然得到爷爷去世的噩耗，匆匆归家导致作业提交较晚，望老师见谅！
 
+![image](https://github.com/Hangprince/first-assignment/blob/master/images/%E4%BA%8C%E8%83%A1%E3%81%AE%E6%97%85.jpg)
  - a. 数据搜集创作手记
  题目：《二胡の旅手记》
 搜集数据内容：幼时学习二胡五年所有曲子的情绪，难度，类型等
