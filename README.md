@@ -1,7 +1,6 @@
 # LSH'S HOMEWORK
 
 <details>
- 
 <summary>forth-assignment</summary>
  
 **图文呈现**
@@ -14,8 +13,8 @@
 
 据生态环境部公布的数据显示，中国生活垃圾的产生总量正在持续增长，2017年达到约2.15亿吨，其中，北京生活垃圾生产量最大。以京沪两地作为对比，2017年，两座城市产生的生活垃圾均在900万吨以上，与10年前相比，上海年生活垃圾产量增长了32.7%，北京的增幅更为显著，达到了37.5%。平均到每个人，2017年上海每人每天产生1.02公斤垃圾，北京则有1.17公斤。　
 
-![image](https://github.com/Hangprince/LSH-S-HOMEWORK/blob/master/images/%E5%8C%97%E4%BA%AC%E4%B8%8A%E6%B5%B7%E7%94%9F%E6%B4%BB%E5%9E%83%E5%9C%BE%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8.png)
-![image](https://github.com/Hangprince/LSH-S-HOMEWORK/blob/master/images/%E4%BA%BA%E5%9D%87%E7%94%9F%E4%BA%A7%E5%9E%83%E5%9C%BE.png)
+![image]()
+![image]()
 
 每年产生的这么多垃圾，最后都去哪儿了呢？
 
@@ -23,7 +22,7 @@
 
 现在，你愿意进行垃圾分类吗？
 
-![image](https://github.com/Hangprince/LSH-S-HOMEWORK/blob/master/images/%E6%88%91%E4%BB%AC%E5%88%86%E7%B1%BB%E7%9A%84%E5%9E%83%E5%9C%BE%E6%9C%80%E7%BB%88%E5%8E%BB%E4%BA%86%E5%93%AA%E9%87%8C.png)
+![image]()
 
 **数据来源**
 北京统计年鉴、上海统计年鉴、国家统计局、生态环境部
