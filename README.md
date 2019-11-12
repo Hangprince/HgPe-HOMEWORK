@@ -51,7 +51,6 @@
 世界各国刑事责任年龄考究：
 
 刑事责任年龄：[link](https://www.66law.cn/topic2012/2016xszrnl/)
-
 相关论文、参考文献
 
 </details>
