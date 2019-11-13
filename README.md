@@ -12,7 +12,7 @@
 
 按照《刑法》第十七条规定，已满十四周岁不满十六周岁的人，犯故意杀人、故意伤害致人重伤或者死亡、强奸、抢劫、贩卖毒品、放火、爆炸、投放危险物质罪的，应当负刑事责任。而不满十四周岁的，不追究刑事责任。
 
-就全球来看，大陆法系国家，受德国法律影响较大的国家一般为14周岁，如德国、奥地利、日本等；受法国影响较大的一般为13周岁，如法国、阿尔及内亚、尼日利亚等；受前苏联法律影响的国家，如中东欧的一些国家、中国等也是14周岁。拉美及非洲的多数国家按照《联合国儿童权利公约》的建议，大多数定为12周岁。从下图可以看出，12-14周岁为最低刑责年龄的国家最多。而英美法系国家的最低刑责年龄普遍较低或者无年龄限制。
+就全球来看，大陆法系国家，受德国法律影响较大的国家一般为14周岁，如德国、奥地利、日本等；受法国影响较大的一般为13周岁，如法国、阿尔及内亚、尼日利亚等；受前苏联法律影响的国家，如中东欧的一些国家、中国等也是14周岁；拉美及非洲的多数国家按照《联合国儿童权利公约》的建议，大多数定为12周岁。从下图可以看出，12-14周岁为最低刑责年龄的国家最多。而英美法系国家的最低刑责年龄普遍较低或者无年龄限制。
 
 ![image](https://github.com/Hangprince/LSH-S-HOMEWORK/blob/master/images/1.png)
 
@@ -28,7 +28,7 @@
 
 预防未成年人犯罪是需要家庭、学校、社会多方面的努力的。从家庭层面来说，需要强化亲子教育，构建家庭心理帮扶。在学校层面上，要对学生进行有效的心理干预和辅导，并且需要发布有效的课堂惩戒措施。社会层面应当宣传法制观点，让未成年人明晰行为的界限，在网络、传媒等方面也要把控好报道的尺度。
 
-为了减少诸如大连女童这样悲剧的发生，预防未成年人犯罪迫在眉睫。
+为了减少诸如大连女童这样悲剧的发生，预防未成年人犯罪显得尤为重要。
 
 **选题角度确立的过程**
 
@@ -40,18 +40,24 @@
 
 **信息/数据搜集**
 
-其实有关未成年人犯罪的数据是相对较少的
+其实有关未成年人犯罪的数据是相对较少的，在寻找全球刑事责任年龄的时候，开始只会找到一些零散的具体的国家的数据，后来我阅读了一些论文文献，知道了不同法系的考究，在参考文献中找到了外国文献，拿到了联合国192个成员国最低刑事年龄的数据。而要证明需要预防未成年人犯罪的重要，就需要找到犯罪的未成年人自身的存在的诸多问题，这方面的数据也不是很容易，我现在中国司法大数据服务网上找到了未成年人犯罪的报告，它虽能佐证这一点，但报告中没有公开原始数据，后来在查阅论文和书籍的过程中，我找到了《我国未成年人犯罪的基本状况和治理对策》这本调查书籍里的具体数据。而后拿到excel表格里进行数据分析，结合刑事责任年龄和未成年人犯罪的资料和文献选择合适可视化形式。
+
 
 **信息数据来源及链接**
 
-《司法大数据专题报告之未成年人犯罪》：[link](http://data.court.gov.cn/pages/uploadDetails.html?filename=%E5%8F%B8%E6%B3%95%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%93%E9%A2%98%E6%8A%A5%E5%91%8A%E4%B9%8B%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E7%BD%AA.pdf2531)
+《司法大数据专题报告之未成年人犯罪》：[link](http://data.court.gov.cn/pages/reportshow.html?filename=%E5%8F%B8%E6%B3%95%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%93%E9%A2%98%E6%8A%A5%E5%91%8A%E4%B9%8B%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E7%BD%AA.pdf2531)
 
 《我国未成年人犯罪的基本状况和治理对策》：[link](http://www.cycs.org/xszs/201601/t20160121_74854.html)
 
-世界各国刑事责任年龄考究：
+世界各国刑事责任年龄考究：[link](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=SPQD&dbname=SPQDLAST_U&filename=SPQD00001971008&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoOGhSL2lraUFYTWhMSktGcG1qOEJEMD0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTk3MThPNEh0SE5wb2hFWk9zSFl3OU16bVJuNmo1N1QzZmxxV00wQ0xMN1I3cWVidWR1RnlybFU3N09JMW89TmozYWFy)
 
 刑事责任年龄：[link](https://www.66law.cn/topic2012/2016xszrnl/)
-相关论文、参考文献
+
+相关论文、参考文献:
+
+《最低刑事责任年龄比较研究》[link](http://www.cnki.com.cn/Article/CJFDTotal-SPZN2011SB073.htm)
+
+《全球视角下刑事责任最低年龄实践中的困境 》[link](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2011&filename=FZWT201101014&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoOGhSL2lraUFYTWhMSktGcG1qOEJEMD0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDE1NzFNcm85RVlJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9lWnVkc0Z5amxVN3pCSXpmY2VyRzRIOUQ=)
 
 </details>
 
