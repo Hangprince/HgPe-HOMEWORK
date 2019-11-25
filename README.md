@@ -1,5 +1,13 @@
 # HgPe HOMEWORK
 <details>
+<summary>seventh-assignment</summary>
+
+**原图1**
+
+
+</details>
+
+<details>
 <summary>sixth-assignment</summary>
  
 **关于期末项目的想法**
