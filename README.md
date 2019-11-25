@@ -4,6 +4,52 @@
 
 **原图1**
 
+![image](https://github.com/Hangprince/HgPe-HOMEWORK/blob/master/images/ljcl%E5%8E%9F%E5%9B%BE.png)
+
+（已根据老师意见修改背景颜色和轴标等）
+
+**ggplot图**
+
+![image](https://github.com/Hangprince/HgPe-HOMEWORK/blob/master/images/ljcl.png)
+
+**实现用的代码**
+setwd("C:/Users/HP/Desktop")
+
+install.packages("ggplot2")
+
+library(ggplot2)
+
+ljcl<- read.csv("ljcl.csv")
+
+View(ljcl)
+
+ggplot(ljcl, aes(x = year, y = garbage_output, colour = city)) + 
+
+geom_line() +  
+
+scale_colour_manual(values = c("#d55557", "#78706e"))
+
+**原图2**
+
+![image](https://github.com/Hangprince/HgPe-HOMEWORK/blob/master/images/rjsclj%E5%8E%9F%E5%9B%BE.png)
+
+（已根据老师意见修改背景颜色和轴标等）
+
+**ggplot图**
+
+![image](https://github.com/Hangprince/HgPe-HOMEWORK/blob/master/images/rjsclj.png)
+
+**实现用的代码**
+
+rjsclj<- read.csv("rjsclj.csv")
+
+View(rjsclj)
+
+ggplot(rjsclj, aes(x = year, y = waste_per_captita, fill = city)) + 
+
+geom_col(position = "dodge") +  
+
+scale_fill_manual(values = c("#d55557", "#78706e"))
 
 </details>
 
